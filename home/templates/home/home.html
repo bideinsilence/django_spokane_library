@@ -1,0 +1,12 @@
+{% extends "home/base_page.html" %}
+
+{% block title %}
+    Spokane Public Library - A Community of Learning
+{% endblock title%}
+
+{% block content %}
+    <h1>Spokane Public Library</h1>
+    <ul>
+        <li><a href="{% url 'catalog:catalog' %}">Catalog</a></li>
+    </ul>
+{% endblock content %}
