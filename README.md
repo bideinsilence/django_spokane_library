@@ -1,8 +1,9 @@
-# My Awesome Project
-![Spokane Public Library](my-SPL-homepage.png)
+# Spokane Public Library clone
+![Spokane Public Library](docs/my-SPL-homepage.png)
 
-This is a clone of the Spokane Public Library's website built with Django,
-and is currently still a work in progress.
+This is a clone of the
+[Spokane Public Library's website](https://www.spokanelibrary.org/)
+built with Django and is currently still a work in progress.
 
 To use the Django catalog application:
 1. Clone the repository
