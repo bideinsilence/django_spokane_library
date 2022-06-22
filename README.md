@@ -15,12 +15,12 @@ built with Django and is currently still a work in progress.
 7. When done, quit the server with `CONTROL-C`
 
 ### Test accounts:
-- testbob, password: locallibrarytest
-- testsally, password: locallibrarytest
-- testlibrarian, password: djangolocal
+- `testbob`, password: `locallibrarytest`
+- `testsally`, password: `locallibrarytest`
+- `testlibrarian`, password: `djangolocal`
 - Admin account, localhost:8000/admin:
-    - user: bideinsilence
-    - password: ahwpYSJ2yYe2VG
+    - user: `bideinsilence`
+    - password: `ahwpYSJ2yYe2VG`
 
 ### **See the homepage live:** https://bideinsilence.github.io/django_spokane_library/
 
