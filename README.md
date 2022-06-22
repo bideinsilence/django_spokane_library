@@ -1,11 +1,11 @@
 # Spokane Public Library clone
-![Spokane Public Library](docs/my-SPL-homepage.png)
+![Spokane Public Library](my-SPL-homepage.png)
 
 This is a clone of the
 [Spokane Public Library's website](https://www.spokanelibrary.org/)
 built with Django and is currently still a work in progress.
 
-To use the Django catalog application:
+### To use the Django catalog application:
 1. Clone the repository
 2. Setup a python virtual environment
 3. Run `pip install -r requirements.txt`
@@ -14,7 +14,7 @@ To use the Django catalog application:
 6. The catalog app will be hosted on a local server at http://127.0.0.1:8000/
 7. When done, quit the server with `CONTROL-C`
 
-Test accounts:
+### Test accounts:
 - testbob, password: locallibrarytest
 - testsally, password: locallibrarytest
 - testlibrarian, password: djangolocal
@@ -22,7 +22,7 @@ Test accounts:
     - user: bideinsilence
     - password: ahwpYSJ2yYe2VG
 
-**See the homepage live:** 
+### **See the homepage live:** https://bideinsilence.github.io/django_spokane_library/
 
 
 ## How It's Made:
